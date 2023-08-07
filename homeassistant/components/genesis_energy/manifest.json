@@ -1,0 +1,13 @@
+{
+  "domain": "genesis_energy",
+  "name": "Genesis Energy",
+  "codeowners": ["@wipash"],
+  "config_flow": true,
+  "dependencies": ["application_credentials"],
+  "documentation": "https://www.home-assistant.io/integrations/genesis_energy",
+  "homekit": {},
+  "iot_class": "cloud_polling",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": []
+}
